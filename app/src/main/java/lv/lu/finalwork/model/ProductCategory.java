@@ -1,4 +1,4 @@
-package teacher.finalwork.model;
+package finalwork.model;
 
 public enum ProductCategory {
     FRUIT, FISH, MEAT, MILK, BREAD, CANDY, VEGETABLES

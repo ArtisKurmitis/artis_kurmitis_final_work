@@ -1,4 +1,4 @@
-package teacher.finalwork.repository;
+package finalwork.repository;
 
 import java.util.List;
 import java.util.Optional;

@@ -1,8 +1,8 @@
-package teacher.finalwork.service;
+package finalwork.service;
 
-import teacher.finalwork.model.ItemNotFoundException;
-import teacher.finalwork.model.Product;
-import teacher.finalwork.repository.ProductRepository;
+import finalwork.model.ItemNotFoundException;
+import finalwork.model.Product;
+import finalwork.repository.ProductRepository;
 
 import java.util.List;
 import java.util.Optional;

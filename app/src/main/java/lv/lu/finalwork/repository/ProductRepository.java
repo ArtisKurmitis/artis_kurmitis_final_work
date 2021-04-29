@@ -1,6 +1,6 @@
-package teacher.finalwork.repository;
+package finalwork.repository;
 
-import teacher.finalwork.model.Product;
+import finalwork.model.Product;
 
 import java.util.*;
 

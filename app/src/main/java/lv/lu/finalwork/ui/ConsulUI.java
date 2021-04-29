@@ -1,8 +1,8 @@
-package teacher.finalwork.ui;
+package finalwork.ui;
 
-import teacher.finalwork.model.Product;
-import teacher.finalwork.model.ProductCategory;
-import teacher.finalwork.service.ProductService;
+import finalwork.model.Product;
+import finalwork.model.ProductCategory;
+import finalwork.service.ProductService;
 
 import java.math.BigDecimal;
 import java.util.Scanner;

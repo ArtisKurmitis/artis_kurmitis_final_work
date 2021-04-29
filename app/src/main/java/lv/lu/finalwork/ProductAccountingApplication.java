@@ -1,6 +1,6 @@
-package teacher.finalwork;
+package finalwork;
 
-import teacher.finalwork.ui.ConsulUI;
+import finalwork.ui.ConsulUI;
 
 public class ProductAccountingApplication {
 
